@@ -14,7 +14,8 @@ char	*ft_strcpy(char* dest, char* str)
 
 int	main(void)
 {
-	char	*a, *b;
+	char	*b;
+	char	a[100];
 	
 	a = "Hello how are you?";
 	b = "Hi";
